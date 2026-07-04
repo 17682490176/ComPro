@@ -1,0 +1,15 @@
+# Build outputs
+*.exe
+*.o
+*.res
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
